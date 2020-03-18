@@ -16,6 +16,7 @@ Allows you to place content intended for different users on the same post/page
 Content for logged in/out users
 Content separated by user role/ability
 
+https://wordpress.org/plugins/vi-member-content/
 
 == Installation ==
 List of available shortcodes:
