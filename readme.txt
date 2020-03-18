@@ -16,8 +16,6 @@ Allows you to place content intended for different users on the same post/page
 Content for logged in/out users
 Content separated by user role/ability
 
-See Installation for a list of Shortcodes
-
 
 == Installation ==
 List of available shortcodes:
