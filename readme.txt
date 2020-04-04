@@ -1,5 +1,5 @@
 === VI: Member Content ===
-Contributors: Knighthawk
+Contributors: knighthawk0811, Knighthawk
 Donate link:
 Tags:
 Requires at least: ?
@@ -50,7 +50,7 @@ List of available shortcodes:
 
 == Changelog ==
 
-= 9.1.200115 =
+= 9.1.200310 =
 * Update: default logged in value is not a predefined role or capability
 * "any" is used internally to note "any" logged in user when no role or capability is specified
 
